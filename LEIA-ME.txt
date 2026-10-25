@@ -1,0 +1,50 @@
+ARCANA — BIBLIOTECA SONORA (OTIMIZADA)
+
+Pasta "audio" com 8 arquivos MP3 para uso no mixer de Imersão.
+Todos os arquivos foram convertidos para uso web, preservando a duração original.
+Para evitar áudio interrompido durante a leitura, configurar reprodução com loop no aplicativo.
+
+ARQUIVOS E CRÉDITOS
+
+1) audio/trovao-distante.mp3
+   Autor: moxobna | CC0
+   https://freesound.org/people/moxobna/sounds/107518/
+
+2) audio/floresta.mp3
+   Autor: gim-audio | Creative Commons Attribution 3.0 (CC BY 3.0)
+   https://freesound.org/people/gim-audio/sounds/28646/
+   ATRIBUIÇÃO OBRIGATÓRIA: Forest Ambience Danish, por gim-audio, licenciado sob CC BY 3.0,
+   convertido de WAV para MP3 para o projeto Arcana.
+   Link para a licença: https://creativecommons.org/licenses/by/3.0/
+
+3) audio/lareira-suave.mp3
+   Autor: jmehlferber | CC0
+   https://freesound.org/people/jmehlferber/sounds/370938/
+
+4) audio/lareira.mp3
+   Autor: samarobryn | CC0
+   https://freesound.org/people/samarobryn/sounds/414767/
+
+5) audio/chuva.mp3
+   Autor: rasunter255 | CC0
+   https://freesound.org/people/rasunter255/sounds/416227/
+
+6) audio/mar.mp3
+   Autor: esh9419 | CC0
+   https://freesound.org/people/esh9419/sounds/417797/
+
+7) audio/vento.mp3
+   Autor: florianreichelt | CC0
+   https://freesound.org/people/florianreichelt/sounds/459977/
+
+8) audio/caixinha-musical.mp3
+   Autor: ChristmasKrumble666 | CC0
+   https://freesound.org/people/ChristmasKrumble666/sounds/753583/
+
+ATENÇÃO
+- Mantenha os créditos da faixa 'floresta.mp3' acessíveis no Arcana (por exemplo, em 'Créditos sonoros').
+- A gravação 'caixinha-musical' foi licenciada CC0 na página Freesound, porém há um comentário relatando
+  uma reivindicação no YouTube. Se desejar evitar esse risco adicional, deixe-a fora do app.
+- O ZIP não contém código alterado do Arcana.
+- Se publicar no GitHub, use uma pasta 'audio' dentro do repositório arcana-assets.
+- As faixas foram otimizadas; não foram feitos testes auditivos manuais em cada transição de loop.
